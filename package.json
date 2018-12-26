@@ -1,0 +1,14 @@
+{
+  "name": "htm-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Franck Achkouyan",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "htm": "^2.0.0",
+    "node-fetch": "^2.3.0",
+    "vhtml": "^2.1.0"
+  }
+}
